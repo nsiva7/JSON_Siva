@@ -7,6 +7,10 @@
   <groupId>siva.nimmala.json</groupId>
   <artifactId>JSON_Siva</artifactId>
   <version>1.0.1</version>
+  <packaging>jar</packaging>
+
+  <name>JSON_Siva</name>
+  <url>https://jitpack.io/#nsiva7/JSON_Siva</url>
 
   <distributionManagement>
     <repository>
