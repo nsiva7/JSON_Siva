@@ -9,7 +9,7 @@ that I can help my co-developer's with this library so made it.
 These are some useful parsing improvements I implemented like
 
 JSONObject.getJSONObject(key) this can provide you JSONObject whether it is in {"key", "value"} format or "{"key", "value"}" format
-and if key is not available this library will provide empty JSONObject like {}.
+and if key is not available this library will provide empty JSONObject like {}.<br/>
 Like this I have made many improvements in this library.
 
 Usages:
