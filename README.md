@@ -13,7 +13,7 @@ and if key is not available this library will provide empty JSONObject like {}.<
 Like this I have made many improvements in this library.
 
 Usages:
-
+<pre>
 Maven Dependency<br/>
 &lt;dependency&gt;<br/>
   &lt;groupId&gt;siva.nimmala.json&lt;/groupId&gt;<br/>
@@ -37,7 +37,7 @@ allprojects {<br/>
    Version:
    [![](https://jitpack.io/v/nsiva7/JSON_Siva.svg)](https://jitpack.io/#nsiva7/JSON_Siva)
    
-   
+</pre>
 That's all.
 Happy Programming....🤗
 Have a good day.
