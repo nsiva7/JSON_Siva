@@ -8,8 +8,8 @@ that I can help my co-developer's with this library so made it.
 
 These are some useful parsing improvements I implemented like
 
-JSONObject.getJSONObject(key) this can provide you JSONObject whether it is in {"key", "value"} format or "{"key", "value"}" format
-and if key is not available this library will provide empty JSONObject like {}.<br/>
+JSONObject.getJSONObject(key) this will provide JSONObject whether it is in <br/>{"key", "value"} format or "{"key", "value"}" format and<br/>
+if key is not available this library will provide empty JSONObject like {}.<br/>
 Like this I have made many improvements in this library.
 
 Usages:
@@ -38,7 +38,8 @@ allprojects {<br/>
    
    Version:
    [![](https://jitpack.io/v/nsiva7/JSON_Siva.svg)](https://jitpack.io/#nsiva7/JSON_Siva)
-   
-That's all.
-Happy Programming....🤗
+
+
+That's all.<br/>
+Happy Programming....🤗<br/>
 Have a good day.
