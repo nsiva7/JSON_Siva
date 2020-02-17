@@ -19,7 +19,7 @@ Maven Dependency<br/>
   &lt;groupId&gt;siva.nimmala.json&lt;/groupId&gt;<br/>
   &lt;artifactId&gt;JSON_Siva&lt;/artifactId&gt;<br/>
   &lt;version&gt;1.0.1&lt;/version&gt;<br/>
-&lt;/dependency&gt;<br/>
+&lt;/dependency&gt;
 </pre>
 
 Gradle Implementation<br/>
@@ -28,12 +28,12 @@ allprojects {<br/>
         repositories {<br/>
             maven { url "https://jitpack.io" }<br/>
         }<br/>
-   }<br/>
+   }
 </pre>
 <pre>
    dependencies {<br/>
         implementation 'com.github.nsiva7:JSON_Siva:Version'<br/>
-   }<br/>
+   }
 </pre>
    
    Version:
