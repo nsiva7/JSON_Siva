@@ -18,7 +18,7 @@ Maven Dependency<br/>
 &lt;dependency&gt;<br/>
   &lt;groupId&gt;siva.nimmala.json&lt;/groupId&gt;<br/>
   &lt;artifactId&gt;JSON_Siva&lt;/artifactId&gt;<br/>
-  &lt;version&gt;1.0.1&lt;/version&gt;<br/>
+  &lt;version&gt;Version&lt;/version&gt;<br/>
 &lt;/dependency&gt;
 </pre>
 
