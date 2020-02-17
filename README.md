@@ -14,25 +14,25 @@ Like this I have made many improvements in this library.
 
 Usages:
 
-Maven Dependency
-&lt;dependency&gt;
-  &lt;groupId&gt;siva.nimmala.json&lt;/groupId&gt;
-  &lt;artifactId&gt;JSON_Siva&lt;/artifactId&gt;
-  &lt;version&gt;1.0.1&lt;/version&gt;
-&lt;/dependency&gt;
+Maven Dependency<br/>
+&lt;dependency&gt;<br/>
+  &lt;groupId&gt;siva.nimmala.json&lt;/groupId&gt;<br/>
+  &lt;artifactId&gt;JSON_Siva&lt;/artifactId&gt;<br/>
+  &lt;version&gt;1.0.1&lt;/version&gt;<br/>
+&lt;/dependency&gt;<br/>
 
 
-Gradle Implementation
-allprojects {
-        repositories {
-            maven { url "https://jitpack.io" }
-        }
-   }
+Gradle Implementation<br/>
+allprojects {<br/>
+        repositories {<br/>
+            maven { url "https://jitpack.io" }<br/>
+        }<br/>
+   }<br/>
    
    
-   dependencies {
-        implementation 'com.github.nsiva7:JSON_Siva:Version'
-   }
+   dependencies {<br/>
+        implementation 'com.github.nsiva7:JSON_Siva:Version'<br/>
+   }<br/>
    
    Version:
    [![](https://jitpack.io/v/nsiva7/JSON_Siva.svg)](https://jitpack.io/#nsiva7/JSON_Siva)
