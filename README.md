@@ -32,7 +32,7 @@ allprojects {<br/>
 </pre>
 <pre>
    dependencies {<br/>
-        implementation 'com.github.nsiva7:JSON_Siva:Version'<br/>
+        implementation 'com.github.nsiva7:JSON_Siva:1.0.1'<br/>
    }
 </pre>
    
