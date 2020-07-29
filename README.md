@@ -12,7 +12,7 @@ JSONObject.getJSONObject(key) this will provide JSONObject whether it is in <br/
 if key is not available this library will provide empty JSONObject like {}.<br/>
 Like this I have made many improvements in this library.
 
-Usages:<br/>
+<b>Usage</b>:<br/>
 Maven Dependency<br/>
 <pre>
 &lt;repositories&gt;<br/>
