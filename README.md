@@ -15,12 +15,12 @@ Like this I have made many improvements in this library.
 Usages:<br/>
 Maven Dependency<br/>
 <pre>
-<repositories>
-    <repository>
-        <id>jitpack.io</id>
-        <url>https://jitpack.io</url>
-    </repository>
-</repositories>
+&lt;repositories&gt;<br/>
+    &lt;repository&gt;<br/>
+        &lt;id&gt;jitpack.io&lt;/id&gt;<br/>
+        &lt;url&gt;https://jitpack.io&lt;/url&gt;<br/>
+    &lt;/repository&gt;<br/>
+&lt;/repositories&gt;
 </pre>
 <pre>
 &lt;dependency&gt;<br/>
