@@ -15,6 +15,14 @@ Like this I have made many improvements in this library.
 Usages:<br/>
 Maven Dependency<br/>
 <pre>
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+</pre>
+<pre>
 &lt;dependency&gt;<br/>
   &lt;groupId&gt;siva.nimmala.json&lt;/groupId&gt;<br/>
   &lt;artifactId&gt;JSON_Siva&lt;/artifactId&gt;<br/>
